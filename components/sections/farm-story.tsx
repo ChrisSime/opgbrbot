@@ -26,9 +26,9 @@ export function FarmStory() {
                 Obiteljski kontinuitet
               </p>
               <p className="text-lg leading-8 text-[color:var(--foreground)]">
-                Damir Brbot sačuvao je ovu sortu češnjaka od nestanka. Sjeme se
+                Damir Brbot sačuvao je ovu sortu češnjaka. Sjeme se
                 prenosi unutar obitelji i danas je temelj uzgoja ličkog
-                podkapelskog češnjaka.
+                podkapelskog češnjaka. 
               </p>
               <p className="text-base leading-7 text-[color:var(--muted-strong)]">
                 Godinama se prilagođavalo oštroj klimi kraja gdje se spaja kapela sa Velebitom. Taj

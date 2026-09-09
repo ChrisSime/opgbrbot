@@ -22,7 +22,7 @@ export function GarlicStory() {
           </h2>
           <p className="section-copy">
             OPG Brbot u Lipicama uzgaja autentični lički podkapelski češnjak iz
-            tradicijskog sjemena koje je Damir Brbot sačuvao od nestanka. Sjeme
+            tradicijskog sjemena koje je Damir Brbot sačuvao. Sjeme
             se prenosi kroz obitelj i prilagodilo se specifičnim, oštrim uvjetima
             ličkog kraja.
           </p>
